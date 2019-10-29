@@ -1,0 +1,1 @@
+let alleLinks = document.querySelectorAll('nav a');
